@@ -1,0 +1,7 @@
+org/example/XmlToPdf.class
+org/example/Application$1.class
+org/example/PDFToXMLConverter2.class
+org/example/controller/PDFController$AnnotationRequest.class
+org/example/controller/PDFController.class
+org/example/TranslateXML.class
+org/example/Application.class
